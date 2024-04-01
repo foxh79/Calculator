@@ -1,6 +1,5 @@
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.*;
 
 public class App extends JFrame implements ActionListener {
     private JTextField display = new JTextField(15);
